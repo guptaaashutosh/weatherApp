@@ -1,0 +1,12 @@
+https://openweathermap.org/current
+
+//my API key
+bc937d2a146365031e0f05ea01855f7a
+
+
+//API call URL
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+
+//own created api 
+https://api.openweathermap.org/data/2.5/weather?q=Pune&appid=bc937d2a146365031e0f05ea01855f7a
