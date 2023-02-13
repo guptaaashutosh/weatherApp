@@ -1,7 +1,7 @@
 https://openweathermap.org/current
 
 //my API key
-bc937d2a146365031e0f05ea01855f7a
+//your api key
 
 
 //API call URL
